@@ -23,3 +23,7 @@ Second, run sanity local host in a split terminal:
 ```
 
 Ecommerce Clone with simulated live payment method with Stripe.
+
+
+https://user-images.githubusercontent.com/66228368/191805770-98717dcf-c228-4d1f-b968-22b3ff48bed7.mp4
+
